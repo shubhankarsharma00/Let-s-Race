@@ -12,6 +12,6 @@ The game includes a batmobile you just have to avoid obstacles speed of obstacle
 # How To Install:
 1. open cmd/terminal in the folder.
 2. type 
-''' 
+```
 python setup.py build 
-'''
+```
