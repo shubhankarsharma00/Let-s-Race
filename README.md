@@ -10,8 +10,9 @@ The game includes a batmobile you just have to avoid obstacles speed of obstacle
 ![alt text](https://github.com/shubhankarsharma00/Let-s-Race/blob/master/snaps/Screenshot%20from%202018-06-23%2011-24-13.png)
 
 # How To Install:
-1. open cmd/terminal in the folder.
-2. type 
+1. Open cmd/terminal in the folder.
+2. Type : 
 ```
 python setup.py build 
 ```
+3. A new folder named build is created open it and go to letsrace.exe
